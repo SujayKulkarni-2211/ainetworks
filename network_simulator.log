@@ -7653,3 +7653,38 @@ ValueError: setting an array element with a sequence. The requested array has an
 2025-04-10 15:30:12,791 - network_simulator - INFO - Simulated 2 normal traffic flows
 2025-04-10 15:30:21,663 - network_simulator - INFO - Simulated 4 normal traffic flows
 2025-04-10 15:30:30,061 - network_simulator - INFO - Simulated 5 normal traffic flows
+2025-04-10 15:54:42,170 - network_simulator - INFO - Initialized default network configuration
+2025-04-10 15:54:42,932 - network_simulator - INFO - Initialized ML models with training data
+2025-04-10 15:55:44,068 - network_simulator - INFO - Simulated 2 normal traffic flows
+2025-04-10 15:55:48,254 - network_simulator - INFO - Simulated DoS attack: 1/1 packets detected
+2025-04-10 15:55:48,415 - network_simulator - INFO - Simulated 2 normal traffic flows
+2025-04-10 15:56:01,582 - network_simulator - INFO - Simulated Data Exfiltration attack: 0/1 packets detected
+2025-04-10 15:56:10,486 - network_simulator - INFO - Simulated Data Exfiltration attack: 0/1 packets detected
+2025-04-10 15:56:23,873 - network_simulator - INFO - Simulated Data Exfiltration attack: 0/1 packets detected
+2025-04-10 15:56:47,836 - network_simulator - INFO - Simulated SQL Injection attack: 0/1 packets detected
+2025-04-10 15:57:08,147 - network_simulator - INFO - Simulated SQL Injection attack: 0/1 packets detected
+2025-04-10 15:58:01,372 - network_simulator - INFO - Model trained with new example, label=1
+2025-04-10 15:58:11,316 - network_simulator - INFO - Simulated SQL Injection attack: 0/1 packets detected
+2025-04-10 15:58:43,022 - network_simulator - INFO - Simulated Cross-Site Scripting attack: 0/1 packets detected
+2025-04-10 15:58:50,565 - network_simulator - INFO - Simulated Brute Force attack: 0/1 packets detected
+2025-04-10 15:58:51,877 - network_simulator - INFO - Simulated Port Scan attack: 1/6 packets detected
+2025-04-10 15:59:28,430 - network_simulator - INFO - Simulated Cross-Site Scripting attack: 0/1 packets detected
+2025-04-10 16:02:33,617 - network_simulator - INFO - Generated 50 synthetic training samples
+2025-04-10 16:02:59,784 - network_simulator - INFO - Exported simulation state (72467 bytes)
+2025-04-10 16:04:30,286 - network_simulator - INFO - Simulated 5 normal traffic flows
+2025-04-10 16:05:16,200 - network_simulator - INFO - Simulated 3 normal traffic flows
+2025-04-10 16:05:23,692 - network_simulator - INFO - Simulated 5 normal traffic flows
+2025-04-10 16:05:25,693 - network_simulator - INFO - Simulated 4 normal traffic flows
+2025-04-10 16:05:27,822 - network_simulator - INFO - Simulated Lateral Movement attack: 0/1 packets detected
+2025-04-10 16:05:27,999 - network_simulator - INFO - Simulated 2 normal traffic flows
+2025-04-10 16:05:32,742 - network_simulator - INFO - Simulated 5 normal traffic flows
+2025-04-10 16:05:33,961 - network_simulator - INFO - Simulated Brute Force attack: 0/1 packets detected
+2025-04-10 16:05:34,339 - network_simulator - INFO - Simulated 5 normal traffic flows
+2025-04-10 16:05:40,894 - network_simulator - INFO - Simulated Brute Force attack: 0/1 packets detected
+2025-04-10 16:05:42,345 - network_simulator - INFO - Simulated Brute Force attack: 0/1 packets detected
+2025-04-10 16:05:46,119 - network_simulator - INFO - Simulated Brute Force attack: 0/1 packets detected
+2025-04-10 16:05:59,761 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-10 16:06:03,943 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-10 16:06:46,070 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-10 16:06:53,041 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-10 16:07:22,834 - network_simulator - INFO - Model trained with new example, label=0
