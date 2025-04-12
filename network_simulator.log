@@ -7706,3 +7706,44 @@ ValueError: setting an array element with a sequence. The requested array has an
 2025-04-12 01:52:46,868 - network_simulator - INFO - Initialized ML models with training data
 2025-04-12 07:59:23,446 - network_simulator - INFO - Initialized default network configuration
 2025-04-12 07:59:23,669 - network_simulator - INFO - Initialized ML models with training data
+2025-04-12 14:39:41,696 - network_simulator - INFO - Initialized default network configuration
+2025-04-12 14:39:42,645 - network_simulator - INFO - Initialized ML models with training data
+2025-04-12 14:40:24,378 - network_simulator - INFO - Simulated Brute Force attack: 0/1 packets detected
+2025-04-12 14:40:33,953 - network_simulator - INFO - Simulated Brute Force attack: 0/1 packets detected
+2025-04-12 14:40:54,088 - network_simulator - INFO - Simulated 2 normal traffic flows
+2025-04-12 14:41:24,065 - network_simulator - INFO - Simulated Brute Force attack: 0/1 packets detected
+2025-04-12 14:41:27,399 - network_simulator - INFO - Simulated Brute Force attack: 0/1 packets detected
+2025-04-12 14:44:49,577 - network_simulator - INFO - Simulated Brute Force attack: 1/1 packets detected
+2025-04-12 14:45:09,901 - network_simulator - INFO - Simulated Brute Force attack: 1/1 packets detected
+2025-04-12 16:52:43,462 - network_simulator - INFO - Initialized default network configuration
+2025-04-12 16:52:44,557 - network_simulator - INFO - Initialized ML models with training data
+2025-04-12 18:20:33,801 - network_simulator - INFO - Initialized default network configuration
+2025-04-12 18:20:34,229 - network_simulator - INFO - Initialized ML models with training data
+2025-04-12 19:20:21,155 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-12 19:20:47,047 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-12 19:21:10,591 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-12 19:21:55,126 - network_simulator - INFO - Initialized default network configuration
+2025-04-12 19:21:55,389 - network_simulator - INFO - Initialized ML models with training data
+2025-04-12 19:22:21,065 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-12 19:22:29,327 - network_simulator - INFO - Initialized default network configuration
+2025-04-12 19:22:29,554 - network_simulator - INFO - Initialized ML models with training data
+2025-04-12 19:23:21,657 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-12 19:23:31,065 - network_simulator - INFO - Initialized default network configuration
+2025-04-12 19:23:31,309 - network_simulator - INFO - Initialized ML models with training data
+2025-04-12 19:25:36,808 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-12 19:25:54,402 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-12 19:32:24,058 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-12 19:39:17,856 - network_simulator - INFO - Model trained with new example, label=1
+2025-04-12 23:23:35,970 - network_simulator - INFO - Initialized default network configuration
+2025-04-12 23:23:36,259 - network_simulator - INFO - Initialized ML models with training data
+2025-04-12 23:42:42,299 - network_simulator - INFO - Simulated Brute Force attack: 1/1 packets detected
+2025-04-12 23:42:53,819 - network_simulator - INFO - Simulated Brute Force attack: 1/1 packets detected
+2025-04-12 23:44:50,243 - network_simulator - INFO - Simulated 4 normal traffic flows
+2025-04-12 23:44:53,327 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-12 23:44:53,542 - network_simulator - INFO - Simulated 3 normal traffic flows
+2025-04-12 23:44:56,557 - network_simulator - INFO - Generated 50 synthetic training samples
+2025-04-12 23:44:56,699 - network_simulator - INFO - Simulated 2 normal traffic flows
+2025-04-12 23:44:58,581 - network_simulator - INFO - Generated 50 synthetic training samples
+2025-04-12 23:44:58,775 - network_simulator - INFO - Simulated Lateral Movement attack: 1/1 packets detected
+2025-04-12 23:47:25,857 - network_simulator - INFO - Simulated 4 normal traffic flows
+2025-04-12 23:47:36,536 - network_simulator - INFO - Simulated 3 normal traffic flows

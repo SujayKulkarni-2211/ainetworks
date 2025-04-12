@@ -969,11 +969,11 @@ def simulate_attack(attack_type=None):
         attack_types = [
             {"name": "Port Scan", "src": "HR-PC1", "dst": "Web-Server", "ports": [21, 22, 23, 25, 80, 443], "proto": 6, "size": 60},
             {"name": "DoS", "src": "Finance-PC2", "dst": "Web-Server", "ports": [80], "proto": 6, "size": 8500},
-            {"name": "Data Exfiltration", "src": "Eng-PC3", "dst": "Internet", "ports": [443], "proto": 6, "size": 7000},
-            {"name": "Brute Force", "src": "Guest-PC1", "dst": "DNS-Server", "ports": [22], "proto": 6, "size": 300},
-            {"name": "SQL Injection", "src": "Guest-PC2", "dst": "DB-Server", "ports": [3306], "proto": 6, "size": 800},
+            {"name": "Data Exfiltration", "src": "HR-PC1", "dst": "Internet", "ports": [443], "proto": 6, "size": 7000},
+            {"name": "Brute Force", "src": "Web-Server", "dst": "Finance-Server", "ports": [22], "proto": 6, "size": 300},
+            {"name": "SQL Injection", "src": "HR-PC2", "dst": "Finance-Server", "ports": [3306], "proto": 6, "size": 800},
             {"name": "Cross-Site Scripting", "src": "HR-PC2", "dst": "Web-Server", "ports": [80], "proto": 6, "size": 1200},
-            {"name": "Lateral Movement", "src": "HR-PC3", "dst": "Finance-Server", "ports": [445], "proto": 6, "size": 1800}
+            {"name": "Lateral Movement", "src": "Finance-PC2", "dst": "HR-Server", "ports": [445], "proto": 6, "size": 1800}
         ]
         
         # Select an attack type if not specified
