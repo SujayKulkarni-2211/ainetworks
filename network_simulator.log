@@ -7688,3 +7688,21 @@ ValueError: setting an array element with a sequence. The requested array has an
 2025-04-10 16:06:46,070 - network_simulator - INFO - Model trained with new example, label=0
 2025-04-10 16:06:53,041 - network_simulator - INFO - Model trained with new example, label=0
 2025-04-10 16:07:22,834 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-10 17:22:38,673 - network_simulator - INFO - Initialized default network configuration
+2025-04-10 17:22:39,603 - network_simulator - INFO - Initialized ML models with training data
+2025-04-10 17:23:17,961 - network_simulator - INFO - Simulated Port Scan attack: 2/6 packets detected
+2025-04-10 17:23:20,592 - network_simulator - INFO - Simulated Cross-Site Scripting attack: 0/1 packets detected
+2025-04-10 17:23:27,450 - network_simulator - INFO - Simulated 3 normal traffic flows
+2025-04-10 17:24:14,744 - network_simulator - INFO - Simulated 3 normal traffic flows
+2025-04-10 17:25:21,383 - network_simulator - INFO - Simulated 2 normal traffic flows
+2025-04-10 17:25:35,249 - network_simulator - INFO - Simulated 4 normal traffic flows
+2025-04-10 17:27:52,964 - network_simulator - INFO - Model trained with new example, label=0
+2025-04-10 17:27:53,128 - network_simulator - INFO - Simulated Cross-Site Scripting attack: 0/1 packets detected
+2025-04-10 17:28:00,609 - network_simulator - INFO - Generated 50 synthetic training samples
+2025-04-10 17:28:01,121 - network_simulator - INFO - Simulated 5 normal traffic flows
+2025-04-11 22:29:13,610 - network_simulator - INFO - Initialized default network configuration
+2025-04-11 22:29:14,399 - network_simulator - INFO - Initialized ML models with training data
+2025-04-12 01:52:46,446 - network_simulator - INFO - Initialized default network configuration
+2025-04-12 01:52:46,868 - network_simulator - INFO - Initialized ML models with training data
+2025-04-12 07:59:23,446 - network_simulator - INFO - Initialized default network configuration
+2025-04-12 07:59:23,669 - network_simulator - INFO - Initialized ML models with training data
